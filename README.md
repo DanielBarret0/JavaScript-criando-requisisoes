@@ -1,17 +1,34 @@
-# Nome do meu projeto
+# AluraPlay
 
 Rápida descrição do objetivo de fazer esse projeto
 
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **AluraPlay**
+| :label: Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+| :rocket: URL         | [Link do projeto]()
+| :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+## 🤯 Documentando minha trajetória neste projeto.
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+## Unidade 1
+
+- Diferenciar projetos estáticos de projetos dinâmicos;
+- Fazer o download e instalar o Node.js;
+- Instalar pacotes em projetos com o Node Package Manager (NPM);
+- Iniciar um servidor com o Json-server.
+
+
+## ⭐ Layout do projeto
+![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/Unidade-1/prints/Unidade-1/print-unidade-1.png#vitrinedev)
+
+
+# 🙋‍♂️ Autor
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md)
+
+José Daniel Aragão Barreto
+
+Acesse o meu [LinkedIn](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
