@@ -1,35 +1,19 @@
-# AluraPlay
+<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
-Escrever objetibo
+<hr>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **AluraPlay**
-| :label: Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-| :rocket: URL         | []()
-| :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
-![](#vitrinedev)
+## Tecnologias utilizadas durante o curso
+* Javascript
+* NodeJS
+* Json-server
 
-## 🤯 Documentando minha trajetória neste projeto.
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
 
-## Unidade 1
-
-- Diferenciar projetos estáticos de projetos dinâmicos;
-- Fazer o download e instalar o Node.js;
-- Instalar pacotes em projetos com o Node Package Manager (NPM);
-- Iniciar um servidor com o Json-server.
-
-
-## ⭐ Layout
-![Layout]()
-
-
-# 🙋‍♂️ Autor
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielBarret0/codeChella/blob/main/LICENSE.md)
-
-José Daniel Aragão Barreto
-
-Acesse o meu [LinkedIn](https://www.linkedin.com/in/daniel-barreto-1b763216a/)
+## Screenshots
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
+![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
