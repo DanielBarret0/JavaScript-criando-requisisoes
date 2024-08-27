@@ -14,7 +14,9 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Unidade 2
 
-
+- Criar requisições GET para consumir uma API;
+- Manipular o DOM para criar elementos a partir do JavaScript;
+- Inserir novos objetos em um arquivo JSON.
 
 
 ## ⭐ Layout do projeto
