@@ -2,7 +2,6 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlay**
@@ -10,36 +9,16 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | [Link do projeto]()
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
-## :o: Ao fazer esse curso: Aprendi sobre Manipulação de APIs e JavaScript Assíncrono:
 
-### Como mockar uma API
-:white_check_mark: Aprendi a criar mocks de APIs para testar minhas aplicações de forma eficiente, sem depender de serviços externos.
+## 🤯 Documentando minha trajetória neste projeto.
 
-### Realizar requisições GET para retornar dados de uma API
-:white_check_mark: Dominei a realização de requisições GET para buscar dados de APIs e integrar esses dados nas minhas aplicações.
+## Unidade 3
 
-### Construir requisições POST para cadastrar dados em uma API
-:white_check_mark: Agora, sou capaz de construir requisições POST para enviar dados e interagir com APIs de maneira mais completa.
 
-### Reforcei meus conhecimentos em JavaScript assíncrono
-:white_check_mark: Aprofundei meu conhecimento em JavaScript assíncrono, melhorando a performance e a experiência do usuário nas minhas aplicações.
-
-### Tratei possíveis erros de requisição retornados da API
-:white_check_mark: Desenvolvi habilidades para tratar erros de requisição de forma eficaz, garantindo que as aplicações continuem funcionando mesmo diante de falhas na comunicação com a API.
-
-### Aprendi a transformar uma página estática em dinâmica
-:white_check_mark: Transformei páginas estáticas em experiências dinâmicas, trazendo interatividade e funcionalidade avançada para o front-end.
-
-## Unidade 1
-
-- Diferenciar projetos estáticos de projetos dinâmicos;
-- Fazer o download e instalar o Node.js;
-- Instalar pacotes em projetos com o Node Package Manager (NPM);
-- Iniciar um servidor com o Json-server.
 
 
 ## ⭐ Layout do projeto
-![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/Unidade-1/prints/Unidade-1/print-unidade-1.png#vitrinedev)
+![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/Unidade-1/prints/Unidade-1/print-unidade-1.png)
 
 
 # 🙋‍♂️ Autor
