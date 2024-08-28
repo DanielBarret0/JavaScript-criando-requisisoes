@@ -14,7 +14,10 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Unidade 3
 
-
+- Salvar dados na API através do método POST;
+- Estruturar requisições do tipo POST enviadas com o fetch API;
+- Diferenciar method, headers e body;
+- Captar evento de envio (submit) em formulários.
 
 
 ## ⭐ Layout do projeto
