@@ -1,5 +1,4 @@
-import conectaApi from './conectaApi';
-
+import { conectaApi } from "./conectaApi.js";
 const formulario = document.querySelector("[data-formulario]");
 
 async function criarVideo(evento) {

@@ -69,6 +69,20 @@
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
+    },
+    {
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Teste",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/cY7oOE8rDqY",
+      "imagem": "https://img.freepik.com/vetores-gratis/as-comunicacoes-ilimitadas-tornam-mais-facil-ficar-conectado-cara-a-cara-e-assistir-a-videos-em-todo-o-mundo-com-um-unico-telefone-celular-ou-computador_1150-37266.jpg?t=st=1724868754~exp=1724872354~hmac=257fd3e1042c66f6c8ce92fdae7cdfb394f975a36fce5193637126777eff03ae&w=740",
+      "id": 12
     }
   ]
 }
