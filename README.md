@@ -18,7 +18,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 
 ## ⭐ Layout do projeto
-![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/Unidade-1/prints/unidade-3.png)
+![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/Unidade-3/prints/unidade-3.png)
 
 
 # 🙋‍♂️ Autor
