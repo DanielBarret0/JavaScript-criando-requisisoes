@@ -14,6 +14,12 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Unidade 4
 
+- Como utilizar parâmetros para buscar objetos específicos na API;
+- Recolher dados escritos em um campo de digitação;
+- Detectar eventos de click com addEventListener;
+- Verificar se há elementos filhos em um container com firstChild;
+- Remover elementos filhos de um container com removeChild.
+
 ## ⭐ Layout do projeto
 ![Layout]()
 
