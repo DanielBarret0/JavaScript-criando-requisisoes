@@ -12,7 +12,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## 🤯 Documentando minha trajetória neste projeto.
 
-## Unidade 4
+# Unidade 4
 
 - Como utilizar parâmetros para buscar objetos específicos na API;
 - Recolher dados escritos em um campo de digitação;
