@@ -21,7 +21,7 @@ Rápida descrição do objetivo de fazer esse projeto
 - Remover elementos filhos de um container com removeChild.
 
 ## ⭐ Layout do projeto
-![Layout]()
+![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/unidade-4/prints/unidade-4.png)
 
 
 # 🙋‍♂️ Autor
