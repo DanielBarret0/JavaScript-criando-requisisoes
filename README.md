@@ -10,9 +10,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
 
-## 🤯 Documentando minha trajetória neste projeto.
+# 🤯 Documentando minha trajetória neste projeto.
 
-# Unidade 4
+## Unidade 4
 
 - Como utilizar parâmetros para buscar objetos específicos na API;
 - Recolher dados escritos em um campo de digitação;
