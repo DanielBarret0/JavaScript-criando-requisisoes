@@ -16,9 +16,9 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Como rodar o projeto em seu PC
 
-Em seu terminal do seu editor de código siga essas etapas:
+No terminal do seu editor de código siga essas etapas:
 
-![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
+![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/terminal.gif)
 
 Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
 ```
