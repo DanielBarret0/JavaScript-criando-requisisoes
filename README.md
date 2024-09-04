@@ -10,9 +10,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | [Link do projeto]()
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
-## Separei cada unidade em branches para organizar melhor o versionamento do código:
+## Confira toda trajetória do curso:
 
-![Gif]()
+![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
 
 # Ao fazer esse curso: Aprendi sobre Manipulação de APIs e JavaScript Assíncrono:
 
