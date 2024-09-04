@@ -14,6 +14,12 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Unidade 5
 
+- Lidar com erros com try catch;
+- Criar novos erros com throw new Error;
+- Detectar erros através de condicionais;
+- Verificar se uma lista está vazia pelo seu tamanho;
+- Imprimir mensagens de erro.
+
 ## ⭐ Layout do projeto
 ![Layout]()
 
