@@ -36,7 +36,7 @@ Rápida descrição do objetivo de fazer esse projeto
 
 
 ## ⭐ Layout do projeto
-![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/unidade-5/prints/unidade-5.png#vitrinedev)
+![Layout](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-alura-play.gif#vitrinedev)
 
 
 # 🙋‍♂️ Autor
