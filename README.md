@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | [Link do projeto]()
 | :fire: Desafio     | [link do Curso](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
-## Separei cada unidade em brenchs para organizar melhor o versionamento do código e o que fui fazendo em cada etapa so clicar em **** para mais detalhes
+## Separei cada unidade em branches para organizar melhor o versionamento do código:
 
 ![Gif]()
 
