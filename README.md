@@ -14,6 +14,22 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
 
+## Como rodar o projeto em seu PC
+
+Em seu terminal do seu editor de código siga essas etapas:
+
+![Gif](https://github.com/DanielBarret0/JavaScript-criando-requisisoes/blob/main/prints/gif-branches.gif)
+
+Certifique-se de que o JSON Server esteja instalado globalmente ou localmente no seu projeto. Para instalá-lo globalmente, você pode usar o seguinte comando:
+```
+npm install -g json-server
+```
+Depois, o comando que você mencionou deve funcionar perfeitamente:
+```
+json-server --watch db.json
+```
+
+
 # Ao fazer esse curso: Aprendi sobre Manipulação de APIs e JavaScript Assíncrono:
 
 ### Como mockar uma API
